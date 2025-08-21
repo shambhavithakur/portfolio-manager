@@ -9,7 +9,7 @@ Brief description of today's focus
 - Technical achievements
 
 ## Files
-- `notebooks/` - Jupyter notebooks
+- `notebooks/analysis-2025-08-21.ipynb` - Main analysis notebook
 - `data/` - Sample datasets
 - `analysis/` - Reports and visualizations
 
